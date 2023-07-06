@@ -147,7 +147,7 @@ export default useRouter;
 
 ```
 
-**4) 위의 코드 사용 처리 부분. 
+**4) 코드 사용 부분.** 
 1) App.tsx
 ```tsx
 import Route from '@components/common/Route';
