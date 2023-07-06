@@ -1,4 +1,3 @@
-// Route.tsx
 import React, { ReactNode, useContext } from 'react';
 import { RouterContext } from './Router';
 
